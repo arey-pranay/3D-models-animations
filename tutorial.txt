@@ -1,0 +1,16 @@
+go to avaturn and create avatar
+export by gaining access link from discord
+download sample fbx from avaturn
+upload it on mixamo
+download animation without skin
+
+upload your glb on blender
+upload your downloaded fbx on blender and disable extending the tailbones
+open dope sheet
+select action editor
+
+select your glb's frame
+add the fbx's animation to it
+
+download the new glb or gltf
+and upload it according to Section 4 Lecture 13
