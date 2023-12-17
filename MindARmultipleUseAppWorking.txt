@@ -1,0 +1,16 @@
+Merge multiple images into one .mind file
+https://hiukim.github.io/mind-ar-js-doc/tools/compile
+
+Attach seperate anchor to each index of the .mind file
+
+Use the onTargetFound method of the anchor to set a variable to true
+
+Depending on which variable is true .play() that action
+
+Yeah create separate action for each variable
+
+
+OR
+
+create 4 varianles with same gtlf model
+and use 1 variable for 1 anchor
