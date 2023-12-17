@@ -1,0 +1,5 @@
+Upload your gltf/glb file
+upload all the fbx files (without skin)
+Go to dope editor -> Action Editor -> Add the new animation of fbx to your glb file and pushdown. Delete that particular fbx, and repeat.
+Go to nonlinear animation -> Put all the animations in front of each other (one after the other), (in a single row) and delete all the emtpied rows then.
+Export the GLB file and play it with 3D player of microsoft maybe to know the indices of all the animations.
